@@ -25,7 +25,7 @@ Este proyecto fue diseñado y desarrollado colaborativamente por:
 
 ## 💻 Instalación y Uso
 1. Clona este repositorio en tu máquina local:
-   `git clone [https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git](https://github.com/frederikzamoradelaguila-del/AplicacionMovil1.git)`
+   `git clone (https://github.com/frederikzamoradelaguila-del/AplicacionMovil1.git)`
 2. Abre la carpeta del proyecto en **Android Studio**.
 3. Sincroniza las dependencias de Gradle (`Sync Project with Gradle Files`).
 4. Selecciona un emulador o conecta un dispositivo físico y presiona **Run** (API 24+).
