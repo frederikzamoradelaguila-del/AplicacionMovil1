@@ -1,3 +1,4 @@
+
 # 📝 To-Do List App (Gestor de Tareas)
 
 Una aplicación móvil nativa para Android, diseñada para gestionar tareas diarias de manera eficiente y moderna. Construida con las últimas tecnologías y estándares de desarrollo de Google, ofreciendo una experiencia de usuario fluida, minimalista y reactiva.
@@ -24,7 +25,7 @@ Este proyecto fue diseñado y desarrollado colaborativamente por:
 
 ## 💻 Instalación y Uso
 1. Clona este repositorio en tu máquina local:
-   `git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git`
+   `git clone [https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git](https://github.com/frederikzamoradelaguila-del/AplicacionMovil1.git)`
 2. Abre la carpeta del proyecto en **Android Studio**.
 3. Sincroniza las dependencias de Gradle (`Sync Project with Gradle Files`).
 4. Selecciona un emulador o conecta un dispositivo físico y presiona **Run** (API 24+).
