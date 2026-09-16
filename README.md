@@ -19,7 +19,7 @@ Una aplicación móvil nativa para Android, diseñada para gestionar tareas diar
 ## 👥 Equipo de Desarrollo
 Este proyecto fue diseñado y desarrollado colaborativamente por:
 
-* **Backend (Lógica de Negocio y Datos):** Moises Sainz
+* **Backend (Lógica de Negocio y Datos):** Moises Saenz
 * **Frontend (Implementación de Vistas):** Jaren Fernandez
 * **Diseño de Arquitectura e Interfaces:** Frederik Zamora
 
